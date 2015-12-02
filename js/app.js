@@ -16,6 +16,5 @@ function fizzbuzz (userNumber) {
 	else 
 		$('body').append(newNumber + "<br>");
 }
-getUserNumber(); //I need to do something that loops us back to the top
 }
 });
